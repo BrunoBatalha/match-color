@@ -1,0 +1,2 @@
+![Match Color - Gameplay](https://github.com/BrunoBatalha/match-color/blob/main/Images/mgameplay-1.png?raw=true)
+![Match Color - GameOver](https://github.com/BrunoBatalha/match-color/blob/main/Images/gameover.png?raw=true)
